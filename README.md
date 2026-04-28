@@ -37,7 +37,37 @@ Arduino UNO (Core Control Unit)
 ↓
 ESP8266 (IoT + GPS + Cloud Communication)
 
----
+```
+              +------------------------+
+              |   Raspberry Pi 3B+     |
+              |  (Face Recognition)    |
+              +-----------+------------+
+                          |
+                          | GPIO (Auth Signal)
+                          |
++----------------+        v         +----------------------+
+|  RFID Module   | ---> Arduino UNO <--- Load Cell + HX711 |
++----------------+   (Main Controller)   +------------------+
+                          |
+                          | Serial / GPIO
+                          v
+                  +------------------+
+                  |    ESP8266       |
+                  |  (IoT + GPS)     |
+                  +--------+---------+
+                           |
+                           | Wi-Fi
+                           v
+                  +------------------+
+                  | Arduino IoT Cloud|
+                  +------------------+
+
+Additional:
+- 4x IR Sensors → AND Gate → Lid Status
+- MPU6050 → Orientation for Load Accuracy
+- CLCD → Display Output
+```
+
 
 ## 🔧 Hardware Components
 
