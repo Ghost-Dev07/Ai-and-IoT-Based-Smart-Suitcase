@@ -131,7 +131,10 @@ Additional:
 
 ## 📸 Images
 
-(Add system images here)
+## 📸 Images
+
+![Setup](images/suitcase-image-1.jpg)
+![Internal](images/suitcase-image-2.jpg)
 
 ---
 
