@@ -152,6 +152,20 @@ Additional:
 
 ---
 
+## ⚠️ Engineering Challenges
+
+* Load cell calibration instability under dynamic conditions
+* Synchronization between multiple controllers
+* Reliable communication between ESP8266 and Arduino
+* Power management using power bank
+
+## 🛠️ Improvements Considered
+
+* Better load sensor calibration techniques
+* Integrated PCB instead of breadboard setup
+* Optimized communication protocol between nodes
+
+
 ## 🧠 What I Learned
 
 * Multi-microcontroller communication
