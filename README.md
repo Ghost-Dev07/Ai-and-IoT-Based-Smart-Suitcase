@@ -131,8 +131,8 @@ Additional:
 
 ## 📸 Images
 
-![Setup](images/suitcase-image-1.jpg)
-![Internal](images/suitcase-image-2.jpg)
+![Setup](images/Suitcase-image-1.jpg)
+![Internal](images/Suitcase-image-2.jpg)
 
 ---
 
