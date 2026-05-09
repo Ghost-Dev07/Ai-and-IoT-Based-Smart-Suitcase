@@ -7,7 +7,7 @@
 ![Feature](https://img.shields.io/badge/Feature-Face%20Recognition-brightgreen)
 ![Communication](https://img.shields.io/badge/Communication-IoT-yellow)
 
-# 🧳 AI + IoT Based Smart Suitcase
+# 🧳 AI and IoT Based Smart Suitcase
 
 ## 🚀 Overview
 
