@@ -166,9 +166,6 @@ The suitcase supports three authentication methods:
 
 ![Setup Image](images/first_proto.jpg)
 
-### 🔧 Final system implementation
-
-![Internal Image](images/Suitcase_image_3.jpg)
 
 ### 🔧 Final system implementation with Labels
 
