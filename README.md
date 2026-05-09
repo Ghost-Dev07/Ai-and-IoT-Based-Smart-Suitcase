@@ -160,19 +160,19 @@ The suitcase supports three authentication methods:
 ## 📸 Images
 
 ### 🧳 Block diagram of the project
-![Block diagram](images/Suitcase1.jpg)
+![Block diagram](images/Block_diagram.png)
 
 ### 🧳 1st Prototype
 
-![Setup Image](images/First-Prototype-implemented-with-a-box.jpg)
+![Setup Image](images/first_proto.jpg)
 
 ### 🔧 Final system implementation
 
-![Internal Image](images/Suitcase-image-3.jpg)
+![Internal Image](images/Suitcase_image_3.jpg)
 
 ### 🔧 Final system implementation with Labels
 
-![Internal Image](images/Suitcase-image-2.jpg)
+![Internal Image](images/Suitcase_label.png)
 
 
 
