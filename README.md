@@ -147,22 +147,34 @@ The suitcase supports three authentication methods:
 
 ---
 
-## 🎥 Demo Videos
+## 🎥 Video links
 
-* [System Demonstration](YOUR_VIDEO_LINK)
-* [Authentication Demo](YOUR_VIDEO_LINK)
+* [RFID linked with IoT based password mechanism](https://drive.google.com/file/d/1WFukvt_SyvQUtBGksHZiEwvq7AYkh2YX/view?usp=sharing)
+  -> In this video, we can see that the correct RFID tag(White tag) can be used to unlock the suitcase(LED in the video). For security purposes, if the correct RFID tag is stolen/threatened, the user can change the password using the IoT app. Once changed, the suitcase will not open even with correct RFID tag. The user can switch back to normal mode only by the app given to the user.
+  
+* [Real time suitcase open/close montioring](https://drive.google.com/file/d/1NJcHaoXW2CDzF00FsdXsu2UkE0Il3hD2/view?usp=sharing)
+  -> In this video, The status of the lid of the suitcase is being reflected on the app in real time.
 
 ---
 
 ## 📸 Images
 
-### 🧳 Complete System Setup
+### 🧳 Block diagram of the project
+![Block diagram](images/Suitcase1.jpg)
 
-![Setup](images/Suitcase1.jpg)
+### 🧳 1st Prototype
 
-### 🔧 Internal Hardware Layout
+![Setup Image](images/First-Prototype-implemented-with-a-box.jpg)
 
-![Internal](images/Suitcase-image-2.jpg)
+### 🔧 Final system implementation
+
+![Internal Image](images/Suitcase-image-3.jpg)
+
+### 🔧 Final system implementation with Labels
+
+![Internal Image](images/Suitcase-image-2.jpg)
+
+
 
 ---
 
